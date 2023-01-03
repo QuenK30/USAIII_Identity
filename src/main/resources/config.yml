@@ -1,0 +1,14 @@
+database:
+    host: "localhost"
+    port: "3306"
+    name: "database"
+    user: "user"
+    password: "password"
+identity:
+    range:
+        min: 0800000000
+        max: 9999999999
+
+npc:
+    prefix: "§6[§eDouanier§6]§r "
+    name: "§eDouanier"

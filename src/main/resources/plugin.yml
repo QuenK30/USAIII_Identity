@@ -1,0 +1,9 @@
+name: USAIII_Identity
+version: '${project.version}'
+main: fr.quenk.usaiii.IDMain
+authors: [ QuenK ]
+description: USAIII_Identity
+depend: [PlaceholderAPI]
+commands:
+  carteid:
+    description: "Permet de créer une carte d'identité et modifier son identité"
